@@ -10,5 +10,5 @@ Use the wiki to view a list of compatible mods, or to see descriptions for the u
 
 ***
 
-[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_46h.png)](https://www.curseforge.com/minecraft/mc-addons/origins-plus-plus-mod-support)
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_46h.png)](https://modrinth.com/datapack/origins-plus-plus-mod-support)
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_46h.png)](https://www.curseforge.com/minecraft/mc-addons/origins-plus-plus-modded-support)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_46h.png)](https://modrinth.com/datapack/origins-plus-plus-modded-support)
