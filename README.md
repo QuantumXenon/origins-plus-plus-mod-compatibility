@@ -7,3 +7,8 @@ To add support for a new mod either:
 - Submit a mod compatability request using the '[Issues](https://github.com/QuantumXenon/origins-plus-plus-mod-compatibility/issues)' tab (slow response time)
 
 Use the wiki to view a list of compatible mods, or to see descriptions for the usage of each tag.
+
+***
+
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_46h.png)](https://www.curseforge.com/minecraft/mc-addons/origins-plus-plus-mod-support)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_46h.png)](https://modrinth.com/datapack/origins-plus-plus-mod-support)
