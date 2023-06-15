@@ -3,8 +3,8 @@
 This datapack provides a compatibility layer between Origins++ and other mods to allow for modded items like food and armour to be added to the tags used by Origins++ and Origins.
 
 To add support for a new mod either:
-- Submit a [pull request](https://github.com/QuantumXenon/origins-plus-plus-mod-compatibility/pulls) adding items from a mod into the relevant tags (fast response time)
-- Submit a mod compatability request using the '[Issues](https://github.com/QuantumXenon/origins-plus-plus-mod-compatibility/issues)' tab (slow response time)
+- Submit a [pull request](https://github.com/QuantumXenon/origins-plus-plus-modded-support/pulls) adding items from a mod into the relevant tags (fast response time)
+- Submit a mod compatability request using the '[Issues](https://github.com/QuantumXenon/origins-plus-plus-modded-support/issues)' tab (slow response time)
 
 Use the wiki to view a list of compatible mods, or to see descriptions for the usage of each tag.
 
