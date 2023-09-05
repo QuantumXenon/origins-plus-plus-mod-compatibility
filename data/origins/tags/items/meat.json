@@ -69,6 +69,14 @@
 			"required":false
 		},
 		{
+			"id":"artifacts:eternal_steak",
+			"required":false
+		},
+		{
+			"id":"artifacts:everlasting_beef",
+			"required":false
+		},
+		{
 			"id":"betteranimalsplus:eel_meat_raw",
 			"required":false
 		},
