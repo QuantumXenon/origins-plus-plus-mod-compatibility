@@ -551,38 +551,6 @@
 		{
 			"id":"varietyaquatic:raw_tuna",
 			"required":false
-		},
-		{
-			"id":"croptopia:anchovy",
-			"required":false
-		},
-		{
-			"id":"croptopia:bacon",
-			"required":false
-		},
-		{
-			"id":"croptopia:calamari",
-			"required":false
-		},
-		{
-			"id":"croptopia:clam",
-			"required":false
-		},
-		{
-			"id":"croptopia:glowing_calamari",
-			"required":false
-		},
-		{
-			"id":"croptopia:oyster",
-			"required":false
-		},
-		{
-			"id":"croptopia:shrimp",
-			"required":false
-		},
-		{
-			"id":"croptopia:tuna",
-			"required":false
 		}
 	]
 }
