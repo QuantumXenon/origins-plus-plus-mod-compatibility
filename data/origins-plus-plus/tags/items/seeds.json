@@ -443,6 +443,10 @@
 		{
 			"id":"supplementaries:flax_seeds",
 			"required":false
+		},
+		{
+			"id":"#croptopia:advancement_seeds",
+			"required":false
 		}
 	]
 }
