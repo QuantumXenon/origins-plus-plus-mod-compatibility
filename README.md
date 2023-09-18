@@ -1,7 +1,7 @@
 ## Origins++ Modded Support
 
-- This repository holds tags with modded items so that compatibility with certain mods can come included in Origins++.
-- This can also be built as a datapack to be able to add specific items to each tag for your playthrough.
+- This repository holds tags with modded items so that compatibility with certain mods can come included in Origins++. This means it no longer has to be downloaded seperately for the included mods to have support.
+- This can also be built as a datapack to be able to add other items from other mods to each tag for your playthrough. 
 
 To add support for a new mod either:
 - Submit a [pull request](https://github.com/QuantumXenon/origins-plus-plus-modded-support/pulls) adding items from a mod into the relevant tags (fast response time)
