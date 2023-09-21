@@ -1,13 +1,13 @@
 ---
 name: Bug
-about: Report an issue with the datapack or template
+about: Report an issue with the datapack template
 title: [Bug]
 labels: Bug
 assignees: QuantumXenon
 
 ---
 
-**Describe the bug**
+**Bug Description**
 A clear and concise description of what the bug is.
 
 **Versions**
