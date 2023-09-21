@@ -1,5 +1,5 @@
 ---
-name: 'Bug '
+name: 'Bug'
 about: Report an issue with the mod compatibility datapack
 title: ''
 labels: Bug
