@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Report an issue with the mod compatibility datapack
+about: Report an issue with the datapack or template
 title: [Bug]
 labels: Bug
 assignees: QuantumXenon
