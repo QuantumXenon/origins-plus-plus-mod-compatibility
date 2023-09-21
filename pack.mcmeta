@@ -1,1 +1,6 @@
-{	"pack":{		"description":"Origins++ Mod Compatability",		"pack_format":12	}}
+{
+	"pack":{
+		"description":"Origins++ Mod Support Datapack",
+		"pack_format":15
+	}
+}
