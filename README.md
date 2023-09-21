@@ -3,4 +3,4 @@ This repository is a template for a datapack that can be used with Origins++ to 
 ***
 To add support for a mod in Origins++ itself, either:
 - Submit a [pull request](https://github.com/QuantumXenon/origins-plus-plus-modded-support/pulls) adding items from a mod into the relevant tags (fast response time)
-- Submit a mod compatability request using the '[Issues](https://github.com/QuantumXenon/origins-plus-plus-modded-support/issues)' tab (slow response time) and give details on which tag(s) you would like items added to.
+- Submit a mod compatability request using the '[Issues](https://github.com/QuantumXenon/origins-plus-plus-modded-support/issues)' tab (slow response time) and specify which tag(s) you would like items added to.
