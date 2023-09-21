@@ -1,7 +1,7 @@
 ---
 name: Mod Support Request
 about: Request a mod to be supported in Origins++
-title: [Mod Name Here]
+title: Mod Name Here
 labels: Mod Support Request
 assignees: QuantumXenon
 
