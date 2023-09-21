@@ -1,7 +1,7 @@
 ---
 name: Mod Suggestion
 about: Suggest a mod to be supported by the official compatibility datapack
-title: ''
+title: '[Mod Name Here]'
 labels: Mod Support Request
 assignees: QuantumXenon
 
