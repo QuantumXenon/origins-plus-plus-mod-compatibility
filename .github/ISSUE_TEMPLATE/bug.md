@@ -1,7 +1,7 @@
 ---
-name: 'Bug'
+name: Bug
 about: Report an issue with the mod compatibility datapack
-title: ''
+title: [Bug]
 labels: Bug
 assignees: QuantumXenon
 
@@ -16,6 +16,3 @@ A clear and concise description of what the bug is.
 - Origins Version
 - Origins++ Version
 - Datapack Version
-
-**Notes**
-Include any other information that might be useful here
