@@ -10,5 +10,5 @@ assignees: QuantumXenon
 **Link to Mod**
 A CurseForge or Modrinth link
 
-**Items to be Supported**
+**Items/Tags to be Supported**
 Please list the item(s)/tag(s) you would like to be included as many mods have too many items for me to add manually.
