@@ -1,5 +1,5 @@
 ---
-name: Mod Support Suggestion
+name: Mod Suggestion
 about: Suggest a mod to be supported by the official compatibility datapack
 title: ''
 labels: Mod Support Request
