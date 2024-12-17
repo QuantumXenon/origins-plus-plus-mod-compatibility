@@ -3,6 +3,90 @@
     {
       "id":"farmersdelight:rotten_tomato",
       "required": false
+    },
+    {
+      "id":"origins:enderian_pearl",
+      "required": false
+    },
+    {
+      "id":"projectiles:amethyst_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:bamboo_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:bone_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:chorus_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:cobweb_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:copper_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:diamond_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:dynamite",
+      "required": false
+    },
+    {
+      "id":"projectiles:echo_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:ender_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:gold_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:iron_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:nether_quartz_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:netherite_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:obsidian_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:prismarine_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:slime_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:soul_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:tnt_arrow",
+      "required": false
+    },
+    {
+      "id":"projectiles:wood_arrow",
+      "required": false
     }
 	]
 }
