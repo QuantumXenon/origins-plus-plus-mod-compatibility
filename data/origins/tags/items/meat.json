@@ -488,6 +488,14 @@
 			"id":"farmersdelight:fried_egg",
 			"required":false
 		},
+    {
+      "id":"farmersdelight:roast_chicken",
+      "required": false
+    },
+    {
+      "id":"farmersdelight:grilled_salmon",
+      "required": false
+    },
 		{
 			"id":"farmersrespite:blazing_chili",
 			"required":false
