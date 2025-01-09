@@ -289,6 +289,14 @@
 			"required":false
 		},
 		{
+			"id":"farmersdelight:glow_berry_custard",
+			"required":false
+		},
+		{
+			"id":"farmersdelight:hot_cocoa",
+			"required":false
+		},
+		{
 			"id":"galosphere_delight:spectral_soda",
 			"required":false
 		},
